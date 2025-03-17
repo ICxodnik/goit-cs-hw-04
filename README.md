@@ -10,6 +10,8 @@
 Спочатку виконайте команду `python gen_files.py -o <output directory> -n <number of files> -w <number of words per file> -u <number of unique words>` для генерації файлів з випадковими словами.
 Після цього виконайте команду `python main.py -i <input directory> -p <parallelism factor> -w <word>..<word>` для запуску основної програми.
 
+![Screenshot 2025-03-17 at 19.28.59.png](Screenshot%202025-03-17%20at%2019.28.59.png)
+
 
 ### Покрокова інструкція
 
